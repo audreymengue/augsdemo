@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/augsdemo/static/css/main.9e9ad467.css",
-    "main.js": "/augsdemo/static/js/main.f1f899ac.js",
+    "main.js": "/augsdemo/static/js/main.1c872549.js",
     "index.html": "/augsdemo/index.html",
     "main.9e9ad467.css.map": "/augsdemo/static/css/main.9e9ad467.css.map",
-    "main.f1f899ac.js.map": "/augsdemo/static/js/main.f1f899ac.js.map"
+    "main.1c872549.js.map": "/augsdemo/static/js/main.1c872549.js.map"
   },
   "entrypoints": [
     "static/css/main.9e9ad467.css",
-    "static/js/main.f1f899ac.js"
+    "static/js/main.1c872549.js"
   ]
 }
